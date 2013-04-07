@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EDD Download Info\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-07 14:04+0200\n"
+"PO-Revision-Date: 2013-04-07 14:04+0200\n"
+"Last-Translator: Sami Keijonen <sami.keijonen@foxnet.fi>\n"
+"Language-Team: Foxnet Themes <sami.keijonen@foxnet.fi>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;esc_attr__;esc_attr_e;"
+"esc_html__;esc_html_e;_n;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/metabox.php:17
+msgid "Flower Price"
+msgstr "Kukan hinta"
+
+#: includes/metabox.php:31
+msgid "Add Flower Price."
+msgstr "Lisää kukan hinta."
+
+#: includes/post-types.php:13 includes/post-types.php:24
+msgid "Flowers"
+msgstr "Kukat"
+
+#: includes/post-types.php:14
+msgid "Flower"
+msgstr "Kukat"
+
+#: includes/post-types.php:15
+msgid "Add New"
+msgstr "Lisää uusi"
+
+#: includes/post-types.php:16
+msgid "Add New Flower"
+msgstr "Lisää uusi kukka"
+
+#: includes/post-types.php:17
+msgid "Edit Flower"
+msgstr "Editoi kukkaa"
+
+#: includes/post-types.php:18
+msgid "New Flower"
+msgstr "Uusi kukka"
+
+#: includes/post-types.php:19
+msgid "View Flower"
+msgstr "Näytä kukka"
+
+#: includes/post-types.php:20
+msgid "Search Flowers"
+msgstr "Etsi kukkia"
+
+#: includes/post-types.php:21
+msgid "No flowers found"
+msgstr "Kukkia ei löytynyt"
+
+#: includes/post-types.php:22
+msgid "No flowers found in Trash"
+msgstr "Kukkia ei löytynyt roskakorista"
+
+#: includes/post-types.php:23
+msgid "Parent Flower:"
+msgstr "Ylemmän tason kukka:"
+
+#: includes/post-types.php:39
+msgid "Flowers for you"
+msgstr "Kukkia elämän eri tilanteisiin"
+
+#: includes/taxonomy.php:15
+msgctxt "taxonomy general name"
+msgid "Flower Type Categories"
+msgstr "Kukkatyyypit"
+
+#: includes/taxonomy.php:16
+msgctxt "taxonomy singular name"
+msgid "Flower Type category"
+msgstr "Kukkatyyppi"
+
+#: includes/taxonomy.php:17
+msgid "Search Flower Type Categories"
+msgstr "Etsi kukkatyyppejä"
+
+#: includes/taxonomy.php:18
+msgid "All Flower Type Categories"
+msgstr "Kaikki kukkatyypit"
+
+#: includes/taxonomy.php:19
+msgid "Parent Flower Type Category"
+msgstr "Ylemmän tason kukkatyyppi"
+
+#: includes/taxonomy.php:20
+msgid "Parent Flower Type Category:"
+msgstr "Ylemmän tason kukkatyyppi:"
+
+#: includes/taxonomy.php:21
+msgid "Edit Flower Type Categories"
+msgstr "Editoi kukkatyyppejä"
+
+#: includes/taxonomy.php:22
+msgid "Update Flower Type Category"
+msgstr "Päivitä kukkatyyppi"
+
+#: includes/taxonomy.php:23
+msgid "Add New Flower Type Category"
+msgstr "Lisää uusi kukkatyyppi"
+
+#: includes/taxonomy.php:24
+msgid "New Flower Type Category Name"
+msgstr "Uuden kukkatyypin  nimi"
+
+#: includes/taxonomy.php:25
+msgid "Flower Type Categories"
+msgstr "Kukkatyypit"
+
+#~ msgid "Download Info"
+#~ msgstr "Latauksien info"
+
+#~ msgid "Add demo URL."
+#~ msgstr "Lisää demon URL."
+
+#~ msgid "Add forum support URL."
+#~ msgstr "Lisää tukifoorumin URL."
+
+#~ msgid "Add document URL."
+#~ msgstr "Lisää dokumentaation URL."
+
+#~ msgid "Add updated date."
+#~ msgstr "Lisää päivityksen päivämäärä."
+
+#~ msgid "m/d/y"
+#~ msgstr "m/d/y"
+
+#~ msgid "Default demo link Style"
+#~ msgstr "Demolinkin oletusväri"
+
+#~ msgid "Choose the style you want to use for the demo link button"
+#~ msgstr "Valitse demolinkin värityyli"
+
+#~ msgid "Download"
+#~ msgstr "Lataus"
+
+#~ msgctxt "taxonomy general name"
+#~ msgid "Download Features"
+#~ msgstr "Latauksien ominaisuudet"
+
+#~ msgctxt "taxonomy singular name"
+#~ msgid "Feature"
+#~ msgstr "Ominaisuudet"
+
+#~ msgid "All Features"
+#~ msgstr "Kaikki ominaisuudet"
+
+#~ msgid "Parent Feature"
+#~ msgstr "Ylemmän tason ominaisuus"
+
+#~ msgid "Update Feature"
+#~ msgstr "Päivitä ominaisuus"
+
+#~ msgid "Features"
+#~ msgstr "Ominaisuudet"
+
+#~ msgid "Display download info."
+#~ msgstr "Näytä latauksien info."
+
+#~ msgid "Demo"
+#~ msgstr "Demo"
+
+#~ msgid "Support"
+#~ msgstr "Tuki"
+
+#~ msgid "Documentation"
+#~ msgstr "Dokumentaatio"
+
+#~ msgid "<span class=\"edd-download-info-version\">Version:</span> %1$s"
+#~ msgstr "<span class=\"edd-download-info-version\">Versio:</span> %1$s"
+
+#~ msgid "<span class=\"edd-download-info-download\">Downloads:</span> %1$s"
+#~ msgstr "<span class=\"edd-download-info-download\">Lataukset:</span> %1$s"
+
+#~ msgid "<span class=\"edd-download-info-updated\">Updated:</span>"
+#~ msgstr "<span class=\"edd-download-info-updated\">Päivitetty:</span>"
+
+#~ msgid "Download info"
+#~ msgstr "Latauksien info"
+
+#~ msgid "Title:"
+#~ msgstr "Otsikko:"
+
+#~ msgid "Show Feature Image?"
+#~ msgstr "Näytä artikkelikuva?"
+
+#~ msgid "Show purchase link in button?"
+#~ msgstr "Näytä ostoksen linkki painikkeena?"
+
+#~ msgid "Show demo link in button?"
+#~ msgstr "Näytä demolinkki painikkeena?"
+
+#~ msgid "Open demo link in a new window?"
+#~ msgstr "Avaa demolinkki uudessa ikkunassa?"
+
+#~ msgid "Show download count?"
+#~ msgstr "Näytä latauksien lukumäärä?"
+
+#~ msgid "Display the downloads features."
+#~ msgstr "Näytä latauksien ominaisuudet."
+
+#~ msgid "Download Features"
+#~ msgstr "Latauksien ominaisuudet"
+
+#~ msgid "Show features as links?"
+#~ msgstr "Näytä ominaisuudet linkkeinä?"
+
+#~ msgid "Version: %1$s"
+#~ msgstr "Versio: %1$s"
+
+#~ msgid "Downloads: %1$s"
+#~ msgstr "Latauksia: %1$s"
